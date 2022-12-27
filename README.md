@@ -1,8 +1,10 @@
 # Couple of attacks on cifar10 dataset in Federated Machine Learning:
-Model Poisoning Attack
+Attribute-Inference Attacks
+
+Model Inversion Attack
 
 Membership-Inference Attack
 
-Reconstruction Attack
+Model Poisoning Attack
 
-Model Inversion Attack
+Reconstruction Attack
